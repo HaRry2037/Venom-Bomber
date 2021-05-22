@@ -1,5 +1,5 @@
 # Venom-Bomber
-<H1>Venom Bomber </h1> is a simple python script with an otp sending api.
+#Venom Bomber is a simple python script with an otp sending api.
 <br>
 Libraries used in the tool -:
 <ul> 
