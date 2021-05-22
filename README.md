@@ -10,9 +10,9 @@ Libraries used in the tool -:
 <hr>
 What's Special in the Script -:
 <ul>
-  <li> It instantly start sending otps </li>
-  <li> No limit (Can even send thousands of otp at a simple click) </li>
-  <li> Work with the exact count Number </li>
+  <li> It instantly start sending otps 🐍</li>
+  <li> No limit (Can even send thousands of otp at a simple click) 🔥 </li>
+  <li> Work with the exact count Number 💯</li>
 </ul>
 <hr>
 <br>
